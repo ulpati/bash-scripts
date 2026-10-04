@@ -1,0 +1,9 @@
+# Life Game progress, created on the first start: personal data, never commit it
+life-game/data/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
